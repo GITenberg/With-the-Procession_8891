@@ -1,0 +1,29 @@
+_repo: With-the-Procession_8891
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fuller, Henry Blake
+    aliases:
+    - Fuller, Henry B. (Henry Blake)
+    - Page, Stanton
+    birthdate: 1857
+    deathdate: 1929
+    gutenberg_agent_id: '2641'
+    url: http://www.gutenberg.org/2009/agents/2641
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Blake_Fuller
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8891'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'Chicago (Ill.) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: With the Procession
+url: http://www.gutenberg.org/ebooks/8891
